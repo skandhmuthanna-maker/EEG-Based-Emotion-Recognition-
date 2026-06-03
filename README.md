@@ -6,8 +6,8 @@ EEG-Based Emotion &amp; Stress Detection System - M.Tech Thesis"
 If you use this code, please cite:
 @thesis{yourname2024eeg,
   title={EEG-Based Emotion and Stress Detection...},
-  author={Your Name},
-  year={2024}
+  author={SKANDH MUTHANNA },
+  year={2025-2026}
 }
 
 ## Installation
